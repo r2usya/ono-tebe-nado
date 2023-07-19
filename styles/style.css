@@ -92,7 +92,7 @@
 
 .aligned-text_center {
     text-align: center;
-    margin: 20px 61px 20px 0;
+    margin: 20px 61px 0 0;
 }
 .aligned-text_right {
     text-align: end;
@@ -227,7 +227,6 @@ justify-content:center;
     line-height: 120%; /* 26.4px */
     text-decoration-line: underline;
     text-transform: uppercase;
-    text-decoration-thickness:1px;
     text-underline-offset: 4px;
 }
 
