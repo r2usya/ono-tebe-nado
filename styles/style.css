@@ -79,7 +79,7 @@
     font-style: normal;
     font-weight: 700;
     line-height: 115%;
-    margin:165px 50px 147px 50px;
+    margin:165px 50px 135px 50px;
     width: auto;
     height: 355px;
     text-transform: uppercase;
@@ -128,6 +128,7 @@ display: block;
 min-width: 633px;
 word-spacing: 25px;
 white-space: nowrap;
+padding-top: 12px;
 }
 
 .bet-button {
@@ -253,7 +254,7 @@ justify-content:center;
     font-weight: 400;
     line-height: normal;
     margin-top: 30px;
-    margin-left: 40px;
+    padding-left: 40px;
     position: absolute;
     text-decoration-color: gray;
 }
