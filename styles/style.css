@@ -18,7 +18,7 @@
     line-height: normal;
     text-underline-offset: 4px;
 }
-.header__link_active{
+.header__link_active {
     text-decoration: none;
 }
 .header__links-list-item {
@@ -300,7 +300,7 @@ margin-top: 100px;
     justify-content: space-between;
 }
 
-.footer__menu-link_active{
+.footer__menu-link_active {
     text-decoration: none;
 }
 
